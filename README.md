@@ -57,7 +57,7 @@
 </div>
 </table>
 
-<div>
+<div align="center">
   <h3>for Contact :</h3>
   <div>
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
