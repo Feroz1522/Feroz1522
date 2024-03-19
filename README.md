@@ -1,7 +1,7 @@
 
 <!--about!-->
 <div>
-  <h3 align="center">Hi I'm Feroz. Python Developer </h3>
+  <h3 align="center">Hi I'm Feroz. PYTHON DEVELOPER </h3>
   <table align="center">
   <td>FOSS Hactivist</td><td>FOSS Contributer</td>
   </table>
@@ -58,7 +58,7 @@
 </table>
 
 <div align="center">
-  <h3>for Contact :</h3>
+  <h3>FOR CONTACT :</h3>
   <div>
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
