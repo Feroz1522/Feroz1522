@@ -58,7 +58,7 @@
 </table>
 
 <div>
-  <h5>for Contact :</h5>
+  <h3>for Contact :</h3>
   <div>
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
